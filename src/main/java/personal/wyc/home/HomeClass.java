@@ -9,5 +9,6 @@ package personal.wyc.home;
 public class HomeClass {
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("我是master");
     }
 }
